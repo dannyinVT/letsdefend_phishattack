@@ -3,7 +3,6 @@
 Phishing Attack Write-up
 
 
-In this attack, we can see that it replicates a real threat from the past. WannaCry.
 
 
 From our alert, it appears that a phishing attack is being sent to lars@letsdefend.io
