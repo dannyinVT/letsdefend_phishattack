@@ -5,6 +5,8 @@ Phishing Attack Write-up
 
 In this attack, we can see that it replicates a real threat from the past.
 
+https://github.com/dannyinVT/letsdefend_phishattack/blob/main/Picture1.png
+
 From our alert, it appears that a phishing attack is being sent to lars@letsdefend.io
  
 
